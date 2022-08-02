@@ -6,7 +6,7 @@ In this project, I will employ some of the Power BI and Python skills I have lea
 ## About the Datasets & requirements
 You can download the dataset from my GitHub repo. Here’s the two files you’ll need:
   <ul>
-      <li> <a href="https://github.com/Khanhlinh1211/Business_case/blob/main/data.xlsx>data.xlsx"</a> </li>
+      <li> <a href="https://github.com/Khanhlinh1211/Business_case/blob/main/data.xlsx>data.xlsx">data.xlsx</a> </li>
       <li>  <a href="https://github.com/Khanhlinh1211/Business_case/blob/main/visitor_information.csv">visitor_information.csv</a> </li>
   </ul>
 
