@@ -20,8 +20,7 @@ You can discover more about my project by following this link:<br>
 https://drive.google.com/file/d/1AY9hmlWPhk9pRwfFjmxt8aC1iaNT6oZk/view?usp=sharing <br>
 
 ## Share Data Through the Art of Visualization
-I publish my report to the Power BI Service, you can get by this link: https://bit.ly/3Qc3exV <br>
-
+I publish my report to the Power BI Service, you can get by this link: 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTUyNGU2NGQtODQ3Yy00ZjE0LWExMjUtN2U0NmRmMzM4YmIzIiwidCI6IjVhZmQ3MjdmLTk1ZGUtNDE1ZS04OWQwLTljNGY1MTFlNDU5YiIsImMiOjF9">Business_case_dashboard</a>
 
 <br>
