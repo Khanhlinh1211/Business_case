@@ -17,7 +17,7 @@ https://drive.google.com/file/d/13xO6nEZV3sha0S0QsWeeIRbQfkX1YXyH/view?usp=shari
 ## Detailed Project Report
 In this report, I've gone into great depth on the data processing and analysis stages. Additionally, after visualizing the criteria, comments are given to help with problem-solving for each department. <br>
 You can discover more about my project by following this link:<br>
-https://drive.google.com/file/d/1xcGZvCj-zzwfs9wXzNeMkzDRpAdB5jYz/view?usp=sharing <br>
+https://drive.google.com/file/d/1AY9hmlWPhk9pRwfFjmxt8aC1iaNT6oZk/view?usp=sharing <br>
 
 ## Share Data Through the Art of Visualization
 I publish my report to the Power BI Service, you can get by this link: https://bit.ly/3zpXpWX <br>
