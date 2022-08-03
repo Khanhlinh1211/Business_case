@@ -20,8 +20,8 @@ You can discover more about my project by following this link:<br>
 https://drive.google.com/file/d/1AY9hmlWPhk9pRwfFjmxt8aC1iaNT6oZk/view?usp=sharing <br>
 
 ## Analyze data
- In questions A, and B I used Power BI to analyze and visualize the results.
- Lastly, question C I used Python to clean, analyze and Power BI to visualize the results.
+ In questions A, and B I used Power BI to analyze data and visualize the results.<br>
+ Lastly, question C I used Python to clean, analyze data and Power BI to visualize the results.
    <ul>
       <li> <a href="https://github.com/Khanhlinh1211/Business_case/blob/main/edited_data_file.ipynb">edited_data_file.ipynb</a> </li>
       <li>  <a href="https://github.com/Khanhlinh1211/Business_case/blob/main/Question_C_result.ipynb">Question_C_result.ipynb</a> </li>
